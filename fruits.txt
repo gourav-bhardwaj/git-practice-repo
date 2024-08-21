@@ -1,7 +1,7 @@
 Fruits
 1. Apple
 2. Orange
-3. Banana
-4. Mango
+3. Banana-1
+4. Mango-2
 5. Pineapple
 
