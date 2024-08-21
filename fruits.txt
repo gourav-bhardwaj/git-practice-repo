@@ -4,4 +4,5 @@ Fruits
 3. Banana-1
 4. Mango-2
 5. Pineapple
-
+6. Blueberry
+7. Kivi
